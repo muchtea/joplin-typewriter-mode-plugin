@@ -12,9 +12,6 @@ Based on:
 - https://github.com/azu/codemirror-typewriter-scrolling
 - https://discuss.codemirror.net/t/modified-typewriter-scrolling-addon-problem/452
 
-> ❗ This plugin doesn't play nice with the [outline plugin](https://github.com/cqroot/joplin-outline).
-
-
 ---
 
 ## Dev

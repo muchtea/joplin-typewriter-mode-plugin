@@ -2,13 +2,13 @@
 	"manifest_version": 1,
 	"id": "com.example.joplinTypewriterMode",
 	"app_min_version": "2.2",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Typewriter Mode",
 	"description": "Plugin to keep the view vertically centered in the editor.",
 	"author": "muchtea",
 	"homepage_url": "https://github.com/muchtea/joplin-typewriter-mode-plugin#readme",
 	"repository_url": "https://github.com/muchtea/joplin-typewriter-mode-plugin",
 	"keywords": [],
-	"_publish_hash": "sha256:0c6373cf7a1782b04a677a0e1481e03f5b78d643b3fdd20dbcef207f8eafcd47",
-	"_publish_commit": "main:92d9e947310a2ed6893120483bded5306582ad30"
+	"_publish_hash": "sha256:26c5fa881e36925fd44986da5b00cc182b7215ea26cbd422e4453b7eb157cea2",
+	"_publish_commit": "main:1bf176185e31609a678a31aba1bb54b4ef05b061"
 }
